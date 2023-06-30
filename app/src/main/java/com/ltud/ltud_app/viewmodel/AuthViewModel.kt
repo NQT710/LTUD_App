@@ -160,6 +160,7 @@ class AuthViewModel(application: Application) : AndroidViewModel(application) {
     fun saveData(data: UserSignUp) {
         val id = mAuth.currentUser?.uid
         data.email = (_loadStatus.value?.email ?: String) as String
+        data.avatar = (_loadStatus.value?.avatar ?: String) as String
         data.article = _loadStatus.value?.article ?: ArrayList()
         data.species = _loadStatus.value?.species ?: ArrayList()
         id?.let {
