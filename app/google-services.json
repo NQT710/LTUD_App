@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "277082524010",
+    "firebase_url": "https://ltud-6c7df-default-rtdb.firebaseio.com",
+    "project_id": "ltud-6c7df",
+    "storage_bucket": "ltud-6c7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277082524010:android:173996fa1651ce7e11bd13",
+        "android_client_info": {
+          "package_name": "com.ltud.ltud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277082524010-j9g8ngs86d79veib3jjsig805avi6hfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Ljhubdf4MREz5A49pgwBS1YplWCPWm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277082524010-j9g8ngs86d79veib3jjsig805avi6hfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277082524010:android:ceef3cbe05f3b41411bd13",
+        "android_client_info": {
+          "package_name": "com.nqt.vuive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277082524010-j9g8ngs86d79veib3jjsig805avi6hfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Ljhubdf4MREz5A49pgwBS1YplWCPWm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277082524010-j9g8ngs86d79veib3jjsig805avi6hfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
